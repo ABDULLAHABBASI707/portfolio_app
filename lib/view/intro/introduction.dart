@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-
 import '../../view model/responsive.dart';
 import 'components/intro_body.dart';
 import 'components/side_menu_button.dart';

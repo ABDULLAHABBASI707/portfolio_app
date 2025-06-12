@@ -48,4 +48,12 @@ List<Project> projectList = [
       'assets/images/chatboat.PNG',
       'https://github.com/ABDULLAHABBASI707/chatboat_ui',
   ),
+
+  Project(
+    'Portfolio Application',
+    'A Flutter portfolio app is a visually appealing, cross-platform application designed to showcase your skills, projects, and experience in a professional way. It typically includes customizable sections such as project galleries, about me, contact forms, and blog posts, all built with smooth animations and responsive layouts to work seamlessly on mobile, web, and desktop. Flutter’s single codebase enables easy customization and fast deployment, helping you stand out with a modern, interactive portfolio.',
+    'assets/images/porfolio.png',
+    'https://github.com/ABDULLAHABBASI707/portfolio_app',
+  ),
+
 ];
