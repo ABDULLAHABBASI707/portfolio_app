@@ -20,7 +20,7 @@ class AnimatedImageContainerState extends State<AnimatedImageContainer>
     _controller = AnimationController(
       vsync: this,
       duration: const Duration(milliseconds: 1000),
-    )..repeat(reverse: true); // Repeat the animation loop
+    )..repeat(reverse: true);
   }
 
   @override

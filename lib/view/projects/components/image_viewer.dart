@@ -19,14 +19,14 @@ class ImageViewer {
               child: Scaffold(
                 backgroundColor: Colors.black,
                 body: Container(
-                    color: Colors.white,
-                    child: Center(
-                      child: PhotoView(imageProvider: AssetImage(image))
-                      ),
-                    )),
+                  color: Colors.white,
+                  child: Center(
+                    child: PhotoView(imageProvider: AssetImage(image)),
+                  ),
+                ),
               ),
             ),
-
+          ),
         );
       },
     );

@@ -93,7 +93,6 @@ class CertificateStack extends StatelessWidget {
                     ),
                   ),
                 ),
-
               ],
             ),
           )),

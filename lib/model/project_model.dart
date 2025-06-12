@@ -40,4 +40,12 @@ List<Project> projectList = [
       'Introducing the extraordinary "Doctor Appointment System" - a state-of-the-art Flutter UI application that redefines healthcare accessibility and efficiency. Seamlessly crafted, this app empowers users to effortlessly select doctors based on categories, engage in smooth messaging, and access detailed profiles.',
       'assets/images/doctor.png',
       'https://github.com/ABDULLAHABBASI707'),
+
+
+  Project(
+  'Chatboat Application UI',
+      'This Chatboat--Community project showcases a modern, modular chatbot UI designed for community engagement and customer support. It features customizable message bubbles, user and bot avatars, typing indicators, and timestamps for a seamless conversational experience.',
+      'assets/images/chatboat.PNG',
+      'https://github.com/ABDULLAHABBASI707/chatboat_ui',
+  ),
 ];
