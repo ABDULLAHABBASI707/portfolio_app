@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 import '../certifications/certifications.dart';
+import '../educations/component/education_details.dart';
+import '../experiences/component/experience_details.dart';
 import '../intro/introduction.dart';
 import '../main/components/drawer/drawer.dart';
 import '../main/main_view.dart';
@@ -16,6 +18,8 @@ class HomePage extends StatelessWidget {
       //CustomDrawer(),
       ProjectsView(),
       Certifications(),
+      EducationListWidget(),
+      ExperienceListWidget(),
     ]);
   }
 }
